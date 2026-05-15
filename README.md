@@ -1,7 +1,7 @@
 # Customer Churn ANalysis
 
-## PRoject Overview
-This PRoject focuses on analyzing customer churn behavior in a telecom company using SQL and Pyhon. The main objective of the project is to identify factors affecting customer churn and generate business insights that can help improve customer retention.
+## Project Overview
+This Project focuses on analyzing customer churn behavior in a telecom company using SQL and Pyhon. The main objective of the project is to identify factors affecting customer churn and generate business insights that can help improve customer retention.
 
 ---
 
